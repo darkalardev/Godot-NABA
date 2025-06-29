@@ -20,3 +20,7 @@
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/darkalardev/Godot-NABA?color=0088ff" />
     </a>
 </p>
+
+
+# 📄​ License
+This project is licensed under the MIT License. You are free to modify and use it however you like. Credit is not required, but always appreciated.
